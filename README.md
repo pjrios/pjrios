@@ -1,2 +1,2 @@
-Computer Enginnering student at the University of Arkansas | 
-Vice-president of the Panamanian student Organization | Teaching Assistant at University of Arkansas for Digital design
+Soy Porfirio Ríos, graduado en Ingeniería Informática de la Universidad de Arkansas en Estados Unidos.
+Tengo un sólido dominio de lenguajes de programación como C++, Java, JavaScript, Python y MySQL, y he trabajado con diversas herramientas como Figma, Webflow, Stable Diffusion, y algoritmos de clasificación de imágenes como Mask R-CNN y YOLOv8. Durante mis estudios, adquirí experiencia práctica como Asistente en el taller de reparación de Acercomp y contribuí al departamento de sistemas en City Mall. También me desempeñé como Asistente de Profesor y Mentor para mis compañeros en la universidad. Me apasiona la innovación, como se refleja en mis proyectos relacionados con la generación de arte digital en tiempo real y la investigación en energía solar.
